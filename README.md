@@ -1,10 +1,14 @@
 <h1 align="center">Hi 👋, I'm Shasika Udayanga</h1>
 <h3 align="center">A passionate back-end developer</h3>
 
-- 🌱 I’m currently learning **React-Redux, tailwind-css, Go**
+<p>As an experienced software engineer, I am dedicated to developing high‑quality software solutions that meet the needs of users and businesses.
+My expertise includes proficiency in programming languages such as Java, Python, JavaScript, Solidity, and SQL and experience with software 
+development methodologies such as Agile and Scrum. In my previous roles, I collaborated with cross‑functional teams to deliver software products
+on time and within budget. I am a quick learner, an analytical thinker, and a problem solver passionate about staying up‑to‑date with emerging
+technologies and industry trends. With excellent communication skills and a commitment to teamwork, I am confident in my ability to contribute
+to the success of any software development project.</p>
 
 - 💬 Ask me about **web3**
-
 - 📫 How to reach me **shasikaudayanga@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
