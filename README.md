@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shasika Udayanga</h1>
 <h3 align="center">A passionate back-end developer</h3>
 
-- 🌱 I’m currently learning **React-Redux, tailwind-css**
+- 🌱 I’m currently learning **React-Redux, tailwind-css, Go**
 
 - 💬 Ask me about **web3**
 
