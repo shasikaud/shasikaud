@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shasika Udayanga</h1>
-<h3 align="center">A passionate back-end developer</h3>
+<h3 align="center">A passionate software engineer </h3>
 
 <p>As an experienced software engineer, I am dedicated to developing high‑quality software solutions that meet the needs of users and businesses.
 My expertise includes proficiency in programming languages such as Java, Python, JavaScript, Solidity, and SQL and experience with software 
